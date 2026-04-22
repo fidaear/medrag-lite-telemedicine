@@ -1,0 +1,4 @@
+Méthode,Recall@3,Latence_ms,Statut
+Teacher MedCPT (110M),100%,-,Référence
+MedCPT direct (notre système),100%,11.9,✅ Objectif atteint
+BM25 seul,72%,2.1,Baseline

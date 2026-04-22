@@ -1,0 +1,3002 @@
+[
+  {
+    "question": "what pathology is shown?",
+    "answer": "left apical pneumothorax",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "what type of image modality is used?",
+    "answer": "mri",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "are the kidneys visualized?",
+    "answer": "yes",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "what is the bump seen above the heart on the patient's right side?",
+    "answer": "right sided aortic arch",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "where is the abnormality located in this image?",
+    "answer": "retrocardiac",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "do you see a pleural effusion?",
+    "answer": "no",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "what brain region demonstrates edema?",
+    "answer": "basal ganglia",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "is there a pneumothorax present?",
+    "answer": "yes",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "what type of image is this?",
+    "answer": "chest x-ray",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "is there ectatic or aneurysmal enlargement of the abdominal aorta?",
+    "answer": "no",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "is there fat stranding shown in this image?",
+    "answer": "yes",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "was this chest x ray taken in pa format?",
+    "answer": "yes",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "is the gallbladder large in size?",
+    "answer": "no",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "what is the signal intensity of the lesion?",
+    "answer": "mixed intensity",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "did this patient sustain physical damage?",
+    "answer": "no",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "what is the location of the hyperintensitites?",
+    "answer": "cortical ribbon of right occipital lobe with extension into right posterior temporal lobe",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "is the trachea deviated?",
+    "answer": "yes",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "what is the image modality?",
+    "answer": "mri/flair",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "does the mass have a smooth appearing border?",
+    "answer": "yes",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "are the heart and lungs displayed well in this film",
+    "answer": "yes",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "is this a t1 weighted, t2 weighted, or flair image?",
+    "answer": "flair",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "which side of the cardiac border is more prominent?",
+    "answer": "left",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "what is the cause of this finding: medical process or physical injury?",
+    "answer": "medical process",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "what laterality is this film?",
+    "answer": "pa",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "is a pulmonary mass present?",
+    "answer": "no",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "what structure is superimposed on the left hemidiaphragm?",
+    "answer": "sigmoid flexture of the colon",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "what could cause this finding?",
+    "answer": "congenital developmental disorder? history of surgery and past manipulation?",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "can you appreciate inflammation?",
+    "answer": "yes",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "is this an mri?",
+    "answer": "yes",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "is the cardiac silhouette enlarged?",
+    "answer": "yes",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "is this an ap or pa film?",
+    "answer": "pa",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "what is the lesion most likely to be?",
+    "answer": "abscess",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "can you see the abdominal fat pads?",
+    "answer": "no",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "what are key characteristics of the lesion?",
+    "answer": "ring-enhancing lesion",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "is the bowel perforated?",
+    "answer": "no",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "is there cardiomegaly?",
+    "answer": "no",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "where are the lesions?",
+    "answer": "bilateral frontal lobes",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "what type of mri is shown in the above image?",
+    "answer": "t2 weighted",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "is there a pneumothorax?",
+    "answer": "no",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "how many kidneys are in this image?",
+    "answer": "2",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "what type of image is this?",
+    "answer": "chest xray",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "is the mass in the liver regular or irregular in contour?",
+    "answer": "irregular",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "is the trachea shifted?",
+    "answer": "no",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "how would you describe the r vertebral artery shape?",
+    "answer": "short section irregular contour",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "is this a chest radiograph?",
+    "answer": "yes",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "is the consistency of the abscess located in the left upper quadrant homogeneous or heterogeneous?",
+    "answer": "heterogeneous",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "what are the signs of contrast being used?",
+    "answer": "aorta enhancement",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "how big is the mass?",
+    "answer": "6.5 x 6.2 x 8.8cm",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "what are the lesions indicative of?",
+    "answer": "adenopathy",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "which side is the diaphragm more depressed?",
+    "answer": "left",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "where is the cavitary lesion?",
+    "answer": "right upper lobe",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "is there damage to the liver?",
+    "answer": "no",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "which way is the trachea deviating in this image?",
+    "answer": "left",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "what is the secondary abnormality in this image?",
+    "answer": "moderate edema",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "what is the density of the lesion?",
+    "answer": "5.6cm focal, predominantly hypodense",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "is there pneumothorax?",
+    "answer": "no",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "what type of image is this?",
+    "answer": "mri-flair",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "is there no evidence of any hypo- or hyperattenuations located in the liver?",
+    "answer": "yes",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "where is the catheter tip located?",
+    "answer": "right superior cavoatrial junction",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "is the medulla swollen?",
+    "answer": "yes",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "the cystic findings in the bilateral apices are consistent with what pathology?",
+    "answer": "emphysema",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "what makes a lesion less acute?",
+    "answer": "less enhancement",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "are the sulci visible in this image?",
+    "answer": "no",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "what are these hyperintensities to the right?",
+    "answer": "infarcted areas",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "the image shows what abnormality?",
+    "answer": "abnormal hyperintensity in the right occipital lobe",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "what does the black on an x ray indicate?",
+    "answer": "air",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "what is the modality?",
+    "answer": "cxr",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "which lobes demonstrate pathology",
+    "answer": "parietal and occipital lobes",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "where is the abnormality?",
+    "answer": "right side of the trachea",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "what is abnormal in this image?",
+    "answer": "left lobe mass 1.5 x 1.8 cm",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "is there a right-sided pleural effusion?",
+    "answer": "no",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "how is the csf enhancement characterized?",
+    "answer": "non-enhanced",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "what modality is this?",
+    "answer": "chest x ray",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "what imaging modality was used?",
+    "answer": "mr - flair",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "is cardiomegaly shown?",
+    "answer": "yes",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "what signs of appendicitis are seen in this image?",
+    "answer": "fat stranding around the appendix, thickened appendiceal walls, dilated appendix, and an appendicolith is seen as well",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "is there oral contrast located in the colon?",
+    "answer": "yes",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "is there evidence of intraparenchymal lung nodules?",
+    "answer": "no",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "the pathology seen in this image is typical of what disease?",
+    "answer": "multiple sclerosis",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "is the trachea midline?",
+    "answer": "yes",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "what is the location of the mass?",
+    "answer": "left temporal horn",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "is this patient healthy?",
+    "answer": "no",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "is there bilateral hilar enlargement?",
+    "answer": "yes",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "is this an anterior-posterior image",
+    "answer": "no",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "how would you characterize the lesion?",
+    "answer": "ring enhancing lesion",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "is there a skull fracture?",
+    "answer": "no",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "how do you know that small bowel and colon are on different sides of midline?",
+    "answer": "haustra",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "is there a shift of midline structures?",
+    "answer": "yes",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "how do you distinguish large bowel?",
+    "answer": "haustra",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "what deficits are suggested by the location of the lesion?",
+    "answer": "motor weakness, sensory deficits, and left neglect",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "where is the central venous catheter placed?",
+    "answer": "right subclavian vein",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "are the vertebral arteries patent in this section?",
+    "answer": "yes",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "is this a chest x-ray?",
+    "answer": "yes",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "how would you describe the lesions?",
+    "answer": "loculated",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "do we see diffuse cerebral edema in this mri?",
+    "answer": "no",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "is the descending aortic silhouette of normal contour?",
+    "answer": "yes",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "what organ is enlarged?",
+    "answer": "spleen",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "is there thickening of the gastric wall?",
+    "answer": "yes",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "is there gastric fullness?",
+    "answer": "yes",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "is there contrast present in the bowel?",
+    "answer": "in the bowel",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "what is the organ principally shown in this image?",
+    "answer": "lung",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "what is seen in the occipital lobe?",
+    "answer": "ring enhancing lesion",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "what does this represent?",
+    "answer": "hydropneumothorax",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "is the cecum dilated",
+    "answer": "yes",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "what tells you that the image is t2?",
+    "answer": "white versus grey matter brightness",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "why are there no sulci seen in this image?",
+    "answer": "there is massive cerebral hemisphere edema",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "can you appreciate a mass in this image?",
+    "answer": "yes",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "is the appendix seen in this image ruptured?",
+    "answer": "no",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "how do we call these wide undulations along the vertebral column?",
+    "answer": "scoliosis",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "is there evidence of cardiomegaly?",
+    "answer": "no",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "on which side of the brain is the infarction?",
+    "answer": "right side",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "why is the right kidney enlarged?",
+    "answer": "ureteral obstruction",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "is there a pneumothorax?",
+    "answer": "no",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "where is the large hematoma located?",
+    "answer": "right lateral ventricle",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "what imaging modality is seen?",
+    "answer": "x-ray",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "is this image plane taken inferior to the liver?",
+    "answer": "yes",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "are the lower lung fields normal?",
+    "answer": "yes",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "is there evidence of fluid in the peritoneal cavity?",
+    "answer": "no",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "is the cardiac silhouette enlarged?",
+    "answer": "no",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "what kind of scan is this?",
+    "answer": "ct",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "where in the cortex are the lesions present?",
+    "answer": "diffuse",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "what vein is occluded?",
+    "answer": "portal vein",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "what organ is involved?",
+    "answer": "pancreas",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "are the kidneys hyper attenuated?",
+    "answer": "yes",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "is this an image of the cerebellum",
+    "answer": "yes",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "what plane is this x-ray in?",
+    "answer": "pa",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "is free air present under the patient's left or right hemidiaphragm?",
+    "answer": "right",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "is there evidence of brainstem herniation in this section",
+    "answer": "no",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "is there a cavitary lesion?",
+    "answer": "yes",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "is there free air under the left diaphragm?",
+    "answer": "no",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "what indicates there is no pleural effusion present?",
+    "answer": "sharp costophrenic angles",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "are the soft tissue densities in the left hilum equivalent in size to the soft tissue densities in the right hilum?",
+    "answer": "no",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "in what plane is this image oriented?",
+    "answer": "axial",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "are there rib fractures present?",
+    "answer": "no",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "describe the size of this lesion?",
+    "answer": "5.6cm focal, predominantly hypodense",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "are you able to see the ventricles in this image?",
+    "answer": "no",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "is this image taken with or without contrast?",
+    "answer": "with contrast",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "is there leakage of contrast?",
+    "answer": "no",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "the contrast is enhancing what inside the lesion?",
+    "answer": "calcifications",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "does the patient have any bone fractures?",
+    "answer": "no",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "can you evaluate the kidneys \tbladde r\tor ureters in this image?",
+    "answer": "no",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "is this image modality t1, t2, or flair?",
+    "answer": "flair",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "is the patient lying down?",
+    "answer": "yes",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "what lobe is the infarct in?",
+    "answer": "right parietal",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "how can you tell the mass is hemorrhagic and pushing the optic chiasm?",
+    "answer": "not sure",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "was this patient given iv contrast?",
+    "answer": "yes",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "is the duodenum edematous?",
+    "answer": "yes",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "is the primary abnormality more or less dense than surrounding matter?",
+    "answer": "less dense",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "how many gallstones are identified?",
+    "answer": "4",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "are the walls of the colon thickened?",
+    "answer": "yes",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "where is the mass located?",
+    "answer": "right kidney",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "what is the location of the abnormality?",
+    "answer": "right side of the trachea",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "is there a pneumothorax?",
+    "answer": "no",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "was this image taken with patient in symmetrical supine position?",
+    "answer": "yes",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "is this an ap cxr",
+    "answer": "yes",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "is there a fracture of the clavicle?",
+    "answer": "no",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "where is the lesion located?",
+    "answer": "left cerebellum",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "is this image enhanced by contrast?",
+    "answer": "yes",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "is there a fracture of the left humerus?",
+    "answer": "no",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "where is the abscess located?",
+    "answer": "descending colon",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "how would you describe the pathology seen in the above image?",
+    "answer": "rounded, well-defined pulmonary nodules varying in size and pattern",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "what are the lesions consistent with?",
+    "answer": "infection",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "does the left humerus appear to be fractured?",
+    "answer": "no",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "which ribs are located near the abnormality seen in this image?",
+    "answer": "4th and 5th",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "is the mass pushing on the midbrain structures?",
+    "answer": "yes",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "what organ is edematous in this image?",
+    "answer": "appendix",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "are there multiple masses or just a single big one?",
+    "answer": "just one",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "where is the abnormality?",
+    "answer": "right lung",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "is the mass hyperintense or hypointense?",
+    "answer": "hyperintense",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "which side is abnormal?",
+    "answer": "left",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "is the trachea midline?",
+    "answer": "midline",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "there is a mass found in which organ?",
+    "answer": "the pancreas",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "what are these densities inside the intestines?",
+    "answer": "contrast",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "what is the bright round organ seen on the patient's left?",
+    "answer": "left kidney",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "what organ system is shown in the above image?",
+    "answer": "brain",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "doe this image depict an interstitial lung process?",
+    "answer": "yes",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "what is abnormal in this image?",
+    "answer": "abnormal hyperintensity in the right occipital lobe",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "what caused the lesion?",
+    "answer": "metastasis",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "what type of mr image modality is seen?",
+    "answer": "t2 weighted",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "describe the appendix",
+    "answer": "enlarged, fluid-filled",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "what abnormality is seen?",
+    "answer": "blind-ending loop of bowel arising from the cecum",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "what area is abnormal?",
+    "answer": "right cerebellum",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "do the enhanced muscles appear enlarged?",
+    "answer": "yes",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "what is enhanced by contrast in the lesion?",
+    "answer": "calcifications",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "which lung lobe is the lesion present in?",
+    "answer": "right lower lobe",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "is there evidence of metastatic tissue on organs surrounding the liver?",
+    "answer": "no",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "is the trachea midline?",
+    "answer": "in the midline",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "are there air fluid levels present in the small bowel?",
+    "answer": "yes",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "is there a cavitary lesion?",
+    "answer": "yes",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "is this a t2 weighted image?",
+    "answer": "yes",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "is this a standing cxr",
+    "answer": "no",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "what is stranding in this image?",
+    "answer": "fat",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "is the trachea midline?",
+    "answer": "yes",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "what is the pathology?",
+    "answer": "left apical pneumothorax",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "what lung are the pulmonary nodules in?",
+    "answer": "bilateral lungs",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "does the lesion above enhance?",
+    "answer": "no",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "the enhancing soft tissue mass and fluid seen in the left upper quadrant is consistent with what pathology?",
+    "answer": "abscess",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "in which lobe is the enhancement?",
+    "answer": "right frontal lobe",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "are there calcifications in the cerebral arteries?",
+    "answer": "yes",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "in which lobe is the nodule located?",
+    "answer": "left upper lobe",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "are the lungs normal appearing?",
+    "answer": "no",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "can you visualize the 4th ventricle?",
+    "answer": "no",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "what is the most likely explanation for a enlarged kidney in this image?",
+    "answer": "ureteral obstruction",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "where on the image is the lesion?",
+    "answer": "left temporal lobe",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "where is the mass?",
+    "answer": "left rectus abdominus",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "is there restricted diffusion?",
+    "answer": "no",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "what is the hypodensity on the posteriolateral edge of the left kidney?",
+    "answer": "nephroblastomatosis",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "is there sign of perforated bowel?",
+    "answer": "no",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "are these normal looking kidneys?",
+    "answer": "yes",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "is there cardiomegaly?",
+    "answer": "no",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "which part of the bowel is involved by the mass?",
+    "answer": "jejunum",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "what are the internal morphologic features of this mass?",
+    "answer": "cystic",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "is there air in the lesion?",
+    "answer": "no",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "what plane is this image in?",
+    "answer": "axial",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "how many lesions are present in the image?",
+    "answer": "one",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "are any of the patient's ribs fractured?",
+    "answer": "no",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "is mesenteric lymphadenopathy present?",
+    "answer": "yes",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "was contrast used to take this image?",
+    "answer": "yes",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "is there swelling of the choroid fissure?",
+    "answer": "no",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "which ventricle is compressed by the lesion?",
+    "answer": "4th ventricle",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "how would you describe the sulci in this image?",
+    "answer": "reduced sulci",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "is this image abnormal?",
+    "answer": "yes",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "is this a pa image?",
+    "answer": "yes",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "are the calcifications superior or inferior to the diaphragm?",
+    "answer": "superior",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "what is the hypodensity in the posterior left?",
+    "answer": "the posterior horn of the left lateral ventricle",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "does the l sided lesion enhance?",
+    "answer": "yes",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "is this an axial image?",
+    "answer": "yes",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "what is the abnormality?",
+    "answer": "single lung nodule",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "is this heart failure",
+    "answer": "yes",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "what is the shape of the liver mass?",
+    "answer": "infiltrative",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "do the kidneys show a high level of contrast enhancement?",
+    "answer": "yes",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "are the colon walls thickened?",
+    "answer": "yes",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "can you see intraperitoneal bleeding in this ct?",
+    "answer": "no",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "is there thickening of the jejunum",
+    "answer": "yes",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "is there evidence of an aortic aneurysm?",
+    "answer": "no",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "are the ventricles the same size?",
+    "answer": "no",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "which rib is fractured?",
+    "answer": "3rd rib",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "which is highlighted in this image, white or gray matter?",
+    "answer": "gray matter",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "what is finding in the right lung?",
+    "answer": "volume loss",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "is the left fifth rib broken?",
+    "answer": "no",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "is there evidence of enhancement?",
+    "answer": "yes",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "is the celiac trunk visualized?",
+    "answer": "yes",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "where is the lesion located in this image?",
+    "answer": "right lobe of the liver",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "what type of plane is this image of?",
+    "answer": "axial",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "where are the hyperlucencies located?",
+    "answer": "thalami, left occipital lobe, brainstem and left cerebellum",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "does there seem to be a mass effect?",
+    "answer": "yes",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "are the kidneys visible in this image?",
+    "answer": "yes",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "are abdominal fat pads prominently visualized?",
+    "answer": "no",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "are the kidneys atrophied?",
+    "answer": "no",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "did this patient receive iv contrast?",
+    "answer": "yes",
+    "specialty": "radiology",
+    "source": "vqa-rad"
+  },
+  {
+    "question": "what is present?",
+    "answer": "gastrointestinal",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "what is present?",
+    "answer": "oral",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "what does this image show?",
+    "answer": "close-up view of foramen magnum",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "is this good yellow color slide present?",
+    "answer": "no",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "is wonder present?",
+    "answer": "no",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "is oral present?",
+    "answer": "yes",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "what is present?",
+    "answer": "histiocyte",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "is infarcts present?",
+    "answer": "yes",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "do the shift of the curve to higher oxygen delivery have ulcerated surface?",
+    "answer": "no",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "is thymus present?",
+    "answer": "yes",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "what know shock vs emboli?",
+    "answer": "exact cause",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "what is present?",
+    "answer": "oral",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "is intermediate callus converted into lamellar bone and internal callus developing bone marrow cavity?",
+    "answer": "yes",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "is endocrine present?",
+    "answer": "yes",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "is muscle present?",
+    "answer": "no",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "what is present?",
+    "answer": "cervix duplication",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "what does an h&e-stained section show of the basal layer of the epidermis and edema at the dermoepidermal junction?",
+    "answer": "liquefactive degeneration",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "what contains a large, exophytic tumor that virtually fills the lumen?",
+    "answer": "the opened gallbladder",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "is gastrointestinal present?",
+    "answer": "yes",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "what is obvious?",
+    "answer": "external view of gland with knife cuts into parenchyma hemorrhage",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "where is this?",
+    "answer": "oral",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "what is present?",
+    "answer": "adrenal",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "what is present?",
+    "answer": "cardiovascular",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "what does this image show?",
+    "answer": "brain",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "what is present?",
+    "answer": "hepatobiliary",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "what is present?",
+    "answer": "hepatobiliary",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "what does this image show?",
+    "answer": "coronary artery with atherosclerosis and thrombotic occlusion",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "what is the cystic change seen to extend into?",
+    "answer": "renal p arenchyma",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "does infant body show acute myocardial infarction?",
+    "answer": "no",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "what is present?",
+    "answer": "vasculature",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "what is present?",
+    "answer": "endocrine",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "does acute myelogenous leukemia show predominant epithelial excellent histology?",
+    "answer": "no",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "how is extracapillary proliferation?",
+    "answer": "not prominent in this case",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "does this image show oil wrights very good?",
+    "answer": "yes",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "is papillary intraductal adenocarcinoma present?",
+    "answer": "yes",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "what have incomplete muscle coat?",
+    "answer": "some blood vessels",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "does malignant adenoma show primary biliary cirrhosis?",
+    "answer": "no",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "what does lower half of chamber show?",
+    "answer": "migration neutrophils towards chemotactic agent",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "is nervous present?",
+    "answer": "yes",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "why does this image show brain, infarct?",
+    "answer": "due to ruptured saccular aneurysm and thrombosis of right middle cerebral artery",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "is endometritis present?",
+    "answer": "no",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "do those with tumors that had mycn amplification contain several fragmented red cells?",
+    "answer": "no",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "what does this image show?",
+    "answer": "that median lobe hyperplasia with marked cystitis and bladder hypertrophy ureter appear normal focal hemorrhages in kidneys and hemorrhagic pyelitis indicates pyelonephritis carcinoma in prostate is diagnosis but can not",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "what does this image show?",
+    "answer": "heart slice",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "is nervous present?",
+    "answer": "yes",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "what is present?",
+    "answer": "respiratory",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "is case of peritonitis slide present?",
+    "answer": "no",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "what does this image show?",
+    "answer": "pancreatic fat necrosis",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "is the soft tissue component delineated by a thin rim of reactive subperiosteal bone?",
+    "answer": "yes",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "what does this image show?",
+    "answer": "right coronary artery",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "does chronic viral hepatitis due to hcv show characteristic portal tract expansion by a dense lymphoid infiltrate?",
+    "answer": "yes",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "is hepatobiliary present?",
+    "answer": "yes",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "is autopsy present?",
+    "answer": "no",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "what is present?",
+    "answer": "ovary",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "does this image show view of middle ear areas with obvious hemorrhage in under-lying tissue?",
+    "answer": "yes",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "is nuclear change present?",
+    "answer": "no",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "where is this?",
+    "answer": "oral",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "does this image show high new bone formation with osteoblasts and osteoclasts a good but not the best example?",
+    "answer": "yes",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "what is present?",
+    "answer": "myocardium",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "does hemorrhage associated with placental abruption show hashimoto 's thyroiditis?",
+    "answer": "no",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "is endocrine present?",
+    "answer": "yes",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "is oral present?",
+    "answer": "yes",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "what is present?",
+    "answer": "breast",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "what is present?",
+    "answer": "blood",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "what is present?",
+    "answer": "soft tissue",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "what is present?",
+    "answer": "abdomen",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "is a binucleate reed-sternberg cell with large, inclusion-like nucleoli and abundant cytoplasm seen as glandular crowding and cellular atypia?",
+    "answer": "no",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "what is present?",
+    "answer": "stillborn cord around neck",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "what is present?",
+    "answer": "respiratory",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "is cardiovascular present?",
+    "answer": "yes",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "what does section from margin of amoebic ulcer show?",
+    "answer": "necrotic debris",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "does myocardium show heart, posterior surface, acute posterior myocardial infarction?",
+    "answer": "no",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "how is the parenchymal architecture of disease, even with such abundant iron?",
+    "answer": "normal at this stage of disease",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "does this image show adrenal gland, normal histology?",
+    "answer": "yes",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "what does this image show?",
+    "answer": "fixed tissue nice example shown close-up",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "is nervous present?",
+    "answer": "yes",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "does this image show cut surface typical cheese like yellow content and thin fibrous capsule this lesion was from the scrotal skin?",
+    "answer": "yes",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "what is present?",
+    "answer": "oral",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "is stillborn macerated present?",
+    "answer": "no",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "is supernumerary digits present?",
+    "answer": "no",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "is the major initiator of coagulation amplified by feedback loops involving thrombin?",
+    "answer": "yes",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "is polycystic disease present?",
+    "answer": "no",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "what is present?",
+    "answer": "urinary",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "what does this image show?",
+    "answer": "wrights excellent",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "what is present?",
+    "answer": "metastatic carcinoma",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "does this image show stomach, polyposis, multiple?",
+    "answer": "yes",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "is endocrine present?",
+    "answer": "yes",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "is hemochromatosis present?",
+    "answer": "yes",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "does this image show opened uterus with cut surface of tumor shown very good?",
+    "answer": "yes",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "what indicates superficial growth?",
+    "answer": "macular areas",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "what is present?",
+    "answer": "blood",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "what is both hands deformed?",
+    "answer": "fingers",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "how is rheumatoid nodule composed of central necrosis rimmed?",
+    "answer": "by palisaded histiocytes",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "what is present?",
+    "answer": "nervous",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "is bone marrow present?",
+    "answer": "yes",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "what is present?",
+    "answer": "gastrointestinal",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "what does the tan-white tumor fill?",
+    "answer": "most of the medullary cavity of the metaphysis and proximal diaphysis",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "do gastrointestinal burn from topical asprin?",
+    "answer": "no",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "what does this image show?",
+    "answer": "metastatic choriocarcinoma with pleomorphism",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "what is present?",
+    "answer": "hepatobiliary",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "what are several faceted black gallstones present in?",
+    "answer": "the gallbladder from a patient with a mechanical mitral valve prosthesis",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "what is present?",
+    "answer": "oral",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "where does this belong to?",
+    "answer": "gastrointestinal system",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "what is present?",
+    "answer": "gastrointestinal",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "how is excellent side with four infarcts shown which are days of age from nonbacterial endocarditis?",
+    "answer": "several",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "what is present?",
+    "answer": "spleen",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "how does this image show heart, old myocardial infarction?",
+    "answer": "with fibrosis and apical thrombus",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "does this image show colon, ulcerative colitis?",
+    "answer": "yes",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "did atrophy differentiate hepatocellular carcinoma within it?",
+    "answer": "no",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "what does this image show?",
+    "answer": "good example of diabetic lesion va.",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "where is this?",
+    "answer": "urinary",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "is respiratory present?",
+    "answer": "yes",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "what is present?",
+    "answer": "edema hypopharynx",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "is bladder present?",
+    "answer": "yes",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "what is present?",
+    "answer": "oral",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "what does this image show?",
+    "answer": "lung abscess",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "does stillborn macerated show close-up excellent example?",
+    "answer": "no",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "what is present?",
+    "answer": "chronic myelogenous leukemia",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "where is this?",
+    "answer": "skin",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "what is present?",
+    "answer": "vasculature",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "where is this?",
+    "answer": "urinary",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "does multiple myeloma show hassalls corpuscle with fibrosis in periphery of surrounding lymphoid follicle lesion?",
+    "answer": "no",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "is anencephaly present?",
+    "answer": "yes",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "what postmortdissected artery lesions in small branches?",
+    "answer": "x-ray",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "what is present?",
+    "answer": "mixed mesodermal tumor",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "what is present?",
+    "answer": "liver",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "is bone marrow present?",
+    "answer": "yes",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "is lesion present?",
+    "answer": "no",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "does this image show fordyce granules?",
+    "answer": "yes",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "does this image show typical gangrene?",
+    "answer": "yes",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "is sac opened?",
+    "answer": "yes",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "what does the lumen of the gallbladder contain?",
+    "answer": "irregular",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "what does this image show?",
+    "answer": "wrights very good example",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "does this image show traumatic bone cyst simple bone cyst?",
+    "answer": "yes",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "does the silicotic nodule show a solitary nodule having capsule?",
+    "answer": "no",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "is gangrene toe in infant present?",
+    "answer": "no",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "what do macular areas indicate?",
+    "answer": "superficial growth",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "does this image show heart, myocardial infarction free wall, 6 days old, in a patient with diabetes mellitus and hypertension?",
+    "answer": "yes",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "what is the farthest?",
+    "answer": "zone 3",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "where is this?",
+    "answer": "skin",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "is fixed tissue cut surface of typical myoma?",
+    "answer": "yes",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "is complex craniofacial abnormalities present?",
+    "answer": "yes",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "is ovary present?",
+    "answer": "yes",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "does this image show thermal burned skin?",
+    "answer": "yes",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "is left ventricle hypertrophy present?",
+    "answer": "no",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "is primary slide 6911 and bone metastatsis?",
+    "answer": "yes",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "does leukoplakia vocal cord show lung, congestion, heart failure cells hemosiderin laden macrophages?",
+    "answer": "no",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "what is present?",
+    "answer": "hepatobiliary",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "does purulent sinusitis show primary sclerosing cholangitis?",
+    "answer": "no",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "what is present?",
+    "answer": "serous cystadenoma",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "how does this image show sections of sternum?",
+    "answer": "with metastatic lesions from breast",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "what does this image show?",
+    "answer": "lung fibrosis",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "does this image show lung, bronchopneumonia?",
+    "answer": "yes",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "does bone, clivus show sjogrens syndrome?",
+    "answer": "no",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "are malignant cells forming irregular glands with stratification seen invading the layers of the stomach wall?",
+    "answer": "yes",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "is unopened larynx seen from above edema in hypopharynx?",
+    "answer": "yes",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "does this image show lung, pneumocystis pneumonia?",
+    "answer": "yes",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "is endocrine present?",
+    "answer": "yes",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "does this image show pituitary, chromaphobe adenoma?",
+    "answer": "yes",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "is excellent multiple lesions present?",
+    "answer": "no",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "what is present?",
+    "answer": "spleen",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "what is present?",
+    "answer": "hepatobiliary",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "does this image show pleura, talc reaction?",
+    "answer": "yes",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "is acrocyanosis present?",
+    "answer": "no",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "what is present?",
+    "answer": "colon",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "does infarcted area show owl-eye appearance of central chromatin mass and perinuclear halo?",
+    "answer": "no",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "is lymph node present?",
+    "answer": "yes",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "what is present?",
+    "answer": "respiratory",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "is muscle present?",
+    "answer": "yes",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "what has the anterior mitral leaflet been moved away from?",
+    "answer": "the septum",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "how is fatty liver disease associated?",
+    "answer": "with chronic alcohol use",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "how is heart left ventricular hypertrophy compared to heart?",
+    "answer": "normal",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "does left ventricle hypertrophy show leiomyoma, uterus?",
+    "answer": "no",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "is basilar skull fracture present?",
+    "answer": "yes",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "does vasculature show autoimmune hepatitis?",
+    "answer": "no",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "is bone marrow present?",
+    "answer": "yes",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "does choanal patency show opened body cavity natural color lesion at t12 see protocol?",
+    "answer": "no",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "what are inactive factors?",
+    "answer": "the red polypeptides",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "is hematologic present?",
+    "answer": "yes",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "are the functional divisions of the lobule into 3 zones also seen?",
+    "answer": "no",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "what does this image show?",
+    "answer": "esophagus",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "what does this image show?",
+    "answer": "excellent example tumor labeled as invasive",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "does this image show easily seen large lesion primary in tail of pancreas?",
+    "answer": "yes",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "where is this from?",
+    "answer": "heart",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "does this image show typical caseating lesions with many langerhans giant cells?",
+    "answer": "yes",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "what is noted at earlier observations?",
+    "answer": "islet inflammation",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "what does this image show?",
+    "answer": "kidney",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "what are elongated and oedematous with suprapapillary thinning of epidermis?",
+    "answer": "papillae",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "does this image show slice of spleen with multiple nodules?",
+    "answer": "yes",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "does the field show microacini of small malignant cells infiltrating the prostatic stroma?",
+    "answer": "yes",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "what does this image show?",
+    "answer": "mucocele",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "does this image show normal pancreas?",
+    "answer": "yes",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "is hepatobiliary present?",
+    "answer": "yes",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "does atrophy imply impending perforation?",
+    "answer": "no",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "do alpha smooth muscle actin immunohistochemical stain?",
+    "answer": "yes",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "is metastatic carcinoma prostate present?",
+    "answer": "no",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "what is probably due to osteoporosis?",
+    "answer": "this lesion",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "is c, x-ray crystallography and infra-red spectroscopy formed called thrombus?",
+    "answer": "no",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "how many phases are in premitotic phases?",
+    "answer": "4",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "is spinal column present?",
+    "answer": "no",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "is cardiovascular present?",
+    "answer": "yes",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "what is present?",
+    "answer": "hematologic",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "does cord show brain, intraventricular hemmorrhage in a prematue baby with hyaline membrane disease?",
+    "answer": "no",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "what are the vascular channels lined by?",
+    "answer": "multiple layers of plump endothelial cells having minimal mitotic activity obliterating the lumina",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "is cardiovascular present?",
+    "answer": "no",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "where is this?",
+    "answer": "oral",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "does this image show lung, hemorrhagic fibrinous pleuritis?",
+    "answer": "yes",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "what does this image show?",
+    "answer": "gout",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "does this image show primary biliary cirrhosis?",
+    "answer": "yes",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "what is present?",
+    "answer": "abdomen",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "what is present?",
+    "answer": "hematologic",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "is anomalous origin present?",
+    "answer": "no",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "where is this?",
+    "answer": "oral",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "what is present?",
+    "answer": "lewy body",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "what is present?",
+    "answer": "aorta",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "what are there lined by flattened epithelium while the intervening parenchyma consists of primitive connective tissue and cartilage?",
+    "answer": "cysts",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "how are low excellent depiction of lesion that probably is metastatic slides 1 lesion?",
+    "answer": "same",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "where is this?",
+    "answer": "oral",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "where is this?",
+    "answer": "oral",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "is bone, skull present?",
+    "answer": "no",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "what does this image show?",
+    "answer": "neural tube defect",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "what is red in this section, stained with movat stain?",
+    "answer": "blood",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "is ctive granulation tissue accompanied with late precursors of myeloid series?",
+    "answer": "no",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "is supernumerary digit present?",
+    "answer": "no",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "what is present?",
+    "answer": "hematologic",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "what does this image show?",
+    "answer": "lung",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "is there widespread thickening of the gbm?",
+    "answer": "yes",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "are extremities present?",
+    "answer": "yes",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "what does this image show?",
+    "answer": "normal breast",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "is that present?",
+    "answer": "no",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "is scanty cytoplasm and markedly hyperchromatic nuclei occluded by a thrombus containing microabscesses?",
+    "answer": "no",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "where is this part in?",
+    "answer": "spleen",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "does previous slide from this case show ductopenia?",
+    "answer": "no",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "what does this image show?",
+    "answer": "lung",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "does pierre robin sndrome show neural tube defect, vertebral bodies?",
+    "answer": "no",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "where does this belong to?",
+    "answer": "gastrointestinal system",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "what is present?",
+    "answer": "respiratory",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "is infiltrative process easily seen?",
+    "answer": "yes",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "what is present?",
+    "answer": "liver",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "what is present?",
+    "answer": "gastrointestinal",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "what is present?",
+    "answer": "vasculature",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "does the anorectal margin show an ulcerated mucosa with thickened wall?",
+    "answer": "yes",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "is nodular parenchyma and dense present?",
+    "answer": "no",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "what does this image show?",
+    "answer": "saphenous vein graft sclerosis",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "what are present?",
+    "answer": "extremities",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "does this image show resolving acute rejection?",
+    "answer": "yes",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "what do infected cells show?",
+    "answer": "distinct nuclear and ill-defined cytoplasmic",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "what is present?",
+    "answer": "gastrointestinal",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "does this image show brain, infarct due to ruptured saccular aneurysm and thrombosis of right middle cerebral artery?",
+    "answer": "yes",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  },
+  {
+    "question": "what is present?",
+    "answer": "pancreas",
+    "specialty": "pathology",
+    "source": "path-vqa"
+  }
+]
